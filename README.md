@@ -1,9 +1,5 @@
 # 🔐 KENNI Vault
 
-<p align="center">
-  <img src="assets/logo.png" width="120" alt="KENNI Vault Logo">
-</p>
-
 <h3 align="center">A Modern Encrypted Personal Vault for Windows</h3>
 
 <p align="center">
